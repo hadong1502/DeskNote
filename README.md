@@ -1,5 +1,5 @@
 # DeskNote
-What if you save your notes right on your wallpaper? This is the most useful for peole who doesn't like to use note-taking app or physical sticky notes but want a fast and efficient method to create reminders accessible at all time.
+What if you save your notes right on your wallpaper? This is the most useful for people who dislike note-taking apps or physical sticky notes but still want a fast and efficient method to create reminders accessible at all time.
 
 To install, download the installer here: https://drive.google.com/drive/folders/1YfAqej3imlihzKzzOfLjFZvYfQn_TWwQ?usp=sharing
 
