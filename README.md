@@ -1,5 +1,5 @@
 # DeskNote
-A simple app for notetaking directly on wallpaper. 
+A simple app for notetaking directly on wallpaper. This is the most useful for peole who doesn't like to use note-taking app or physical sticky notes but want a fast and efficient method to create reminders accessible at all time.
 
 To install, download the installer here: https://drive.google.com/drive/folders/1YfAqej3imlihzKzzOfLjFZvYfQn_TWwQ?usp=sharing
 
