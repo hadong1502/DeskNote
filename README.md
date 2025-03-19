@@ -9,7 +9,7 @@ pyinstaller --onefile --windowed --icon=Icon.ico DeskNote.py
 ```
 DeskNote COMMANDS (V1.0):
 
-Commands are beginned with `/`. 
+Commands begin with `/`. 
 
 `/date `,`/time`, and `/now` to specify the date and/or time at the momment of submission
 
