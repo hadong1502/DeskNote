@@ -7,7 +7,7 @@ The original code is posted as DeskNote.py. Any preferred icons for the app coul
 ```
 pyinstaller --onefile --windowed --icon=Icon.ico DeskNote.py
 ```
-DeskNote commands (v1.0):
+DeskNote COMMANDS (V1.0):
 
 Commands are beginned with `/`. 
 
