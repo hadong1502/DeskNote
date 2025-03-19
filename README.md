@@ -20,3 +20,6 @@ To add on to the existing DeskNote, include `/continue` in the new text.
 To remove specific lines in the existing DeskNote, include `/strip{keyword}` with `keyword` being a unique word/phrase in that line. This function only works if the existing DeskNote was logged as the most recent note and `/continue` is mentioned in the text. 
 
 `/textbf{text}`, `/textit{text}`, and `/underline{text}` to format any `text`. 
+
+https://github.com/user-attachments/assets/933eca17-31f7-472f-b93a-3c75598ea851
+
